@@ -1,10 +1,11 @@
-# PowerBIProject2 - Ecommerce Sales Dashboard
+# PowerProject2 - E-commerce Sales Dashboard
 
 ### Table of Contents
 
 - [About](#about)
 - [Purpose](#purpose)
 - [Dashboard](#dashboard)
+- [Schema - E-commerce Sales Data](#schema---e-commerce-sales-data)
 - [Details (Insights from the Dashboard)](#details-insights-from-the-dashboard)
 - [Conclusion](#conclusion)
 
@@ -25,6 +26,12 @@ The purpose of the E-commerce Sales Dashboard is to provide stakeholders with ac
 ### Dashboard
 
 ![Screenshot 2024-05-05 064146](https://github.com/qamaruddin-khichi/PowerBIProject2-Ecommerce-Sales-Dashboard/assets/155871872/9b447bc3-100f-4e2a-9cf7-19a138570092)
+
+---
+
+### Schema - E-commerce Sales Data
+
+![Schema - Ecommerce Sales Data](https://github.com/qamaruddin-khichi/PowerBIProject2-Ecommerce-Sales-Dashboard/assets/155871872/1bf09b29-5535-42fd-aaa4-de6ad30414f8)
 
 ---
 
