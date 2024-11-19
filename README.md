@@ -1,4 +1,6 @@
 # PowerProject2 - E-commerce Sales Dashboard
+ 
+Explore the interactive dashboard: [E-commerce Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTI1YjRiYmEtMGMzNy00ZWU3LWEzOWMtMzc2MjQ5MTI4ZjI4IiwidCI6IjU0MTM4MTA5LTNiOGEtNDMzNy1hYzk2LTY4ZDE4ODM0NmNhOCIsImMiOjl9)
 
 ### Table of Contents
 
