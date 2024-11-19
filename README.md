@@ -25,7 +25,11 @@ The purpose of the E-commerce Sales Dashboard is to provide stakeholders with ac
 
 ### Dashboard
 
+#### SAMPLE 1
 ![Screenshot 2024-05-05 064146](https://github.com/qamaruddin-khichi/PowerBIProject2-Ecommerce-Sales-Dashboard/assets/155871872/9b447bc3-100f-4e2a-9cf7-19a138570092)
+
+#### SAMPLE 2
+![E-Commerce Sales Dashboard](https://github.com/user-attachments/assets/9679b0da-3825-4262-9e54-5e7879fc4549)
 
 ---
 
